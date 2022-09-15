@@ -1,6 +1,6 @@
 <h2>Atividade de revisão: Classes com JavaScript.</h2>
 <p>A atividade consiste na criação de uma página de cadastro de equipamento esportivos.</p>
-<p>O objetivo é revisando o conceito de Classes e Objeto.</p>
+<p>Revisando o conceito de Classes e Objetos.</p>
 
 <ul><h3>Tópicos</h3>
 <li>JavaScript</li>
