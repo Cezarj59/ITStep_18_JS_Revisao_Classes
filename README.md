@@ -1,8 +1,4 @@
-# Atividade_ITStep_18_JS_Revisao_Classes
-
- Pagina simples de cadastro utilizando classes, constructor, arrays, functions, formulários, css3, bootstrap
- 
- <h2>Atividade de revisão: Classes com JavaScript.</h2>
+<h2>Atividade de revisão: Classes com JavaScript.</h2>
 <p>A atividade consiste na criação de uma pagina de cadastro de equipamento esportivos.</p>
 <p>O objetivo é revisando o conceito de Classes e Objeto.</p>
 
